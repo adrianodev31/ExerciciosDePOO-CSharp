@@ -1,0 +1,15 @@
+C:\dev\exerciciosPOO\SistemaDeNotas\bin\Debug\net8.0\SistemaDeNotas.exe
+C:\dev\exerciciosPOO\SistemaDeNotas\bin\Debug\net8.0\SistemaDeNotas.deps.json
+C:\dev\exerciciosPOO\SistemaDeNotas\bin\Debug\net8.0\SistemaDeNotas.runtimeconfig.json
+C:\dev\exerciciosPOO\SistemaDeNotas\bin\Debug\net8.0\SistemaDeNotas.dll
+C:\dev\exerciciosPOO\SistemaDeNotas\bin\Debug\net8.0\SistemaDeNotas.pdb
+C:\dev\exerciciosPOO\SistemaDeNotas\obj\Debug\net8.0\SistemaDeNotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\exerciciosPOO\SistemaDeNotas\obj\Debug\net8.0\SistemaDeNotas.AssemblyInfoInputs.cache
+C:\dev\exerciciosPOO\SistemaDeNotas\obj\Debug\net8.0\SistemaDeNotas.AssemblyInfo.cs
+C:\dev\exerciciosPOO\SistemaDeNotas\obj\Debug\net8.0\SistemaDeNotas.csproj.CoreCompileInputs.cache
+C:\dev\exerciciosPOO\SistemaDeNotas\obj\Debug\net8.0\SistemaDeNotas.sourcelink.json
+C:\dev\exerciciosPOO\SistemaDeNotas\obj\Debug\net8.0\SistemaDeNotas.dll
+C:\dev\exerciciosPOO\SistemaDeNotas\obj\Debug\net8.0\refint\SistemaDeNotas.dll
+C:\dev\exerciciosPOO\SistemaDeNotas\obj\Debug\net8.0\SistemaDeNotas.pdb
+C:\dev\exerciciosPOO\SistemaDeNotas\obj\Debug\net8.0\SistemaDeNotas.genruntimeconfig.cache
+C:\dev\exerciciosPOO\SistemaDeNotas\obj\Debug\net8.0\ref\SistemaDeNotas.dll
