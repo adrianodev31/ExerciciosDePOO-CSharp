@@ -1,0 +1,15 @@
+C:\dev\exerciciosPOO\SistemaControleVeiculos\obj\Debug\net8.0\SistemaControleVeiculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\exerciciosPOO\SistemaControleVeiculos\obj\Debug\net8.0\SistemaControleVeiculos.AssemblyInfoInputs.cache
+C:\dev\exerciciosPOO\SistemaControleVeiculos\obj\Debug\net8.0\SistemaControleVeiculos.AssemblyInfo.cs
+C:\dev\exerciciosPOO\SistemaControleVeiculos\obj\Debug\net8.0\SistemaControleVeiculos.csproj.CoreCompileInputs.cache
+C:\dev\exerciciosPOO\SistemaControleVeiculos\obj\Debug\net8.0\SistemaControleVeiculos.sourcelink.json
+C:\dev\exerciciosPOO\SistemaControleVeiculos\bin\Debug\net8.0\SistemaControleVeiculos.exe
+C:\dev\exerciciosPOO\SistemaControleVeiculos\bin\Debug\net8.0\SistemaControleVeiculos.deps.json
+C:\dev\exerciciosPOO\SistemaControleVeiculos\bin\Debug\net8.0\SistemaControleVeiculos.runtimeconfig.json
+C:\dev\exerciciosPOO\SistemaControleVeiculos\bin\Debug\net8.0\SistemaControleVeiculos.dll
+C:\dev\exerciciosPOO\SistemaControleVeiculos\bin\Debug\net8.0\SistemaControleVeiculos.pdb
+C:\dev\exerciciosPOO\SistemaControleVeiculos\obj\Debug\net8.0\SistemaControleVeiculos.dll
+C:\dev\exerciciosPOO\SistemaControleVeiculos\obj\Debug\net8.0\refint\SistemaControleVeiculos.dll
+C:\dev\exerciciosPOO\SistemaControleVeiculos\obj\Debug\net8.0\SistemaControleVeiculos.pdb
+C:\dev\exerciciosPOO\SistemaControleVeiculos\obj\Debug\net8.0\SistemaControleVeiculos.genruntimeconfig.cache
+C:\dev\exerciciosPOO\SistemaControleVeiculos\obj\Debug\net8.0\ref\SistemaControleVeiculos.dll

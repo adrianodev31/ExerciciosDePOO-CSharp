@@ -1,0 +1,15 @@
+C:\dev\exerciciosPOO\CadastroDeLivros\obj\Debug\net8.0\CadastroDeLivros.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\exerciciosPOO\CadastroDeLivros\obj\Debug\net8.0\CadastroDeLivros.AssemblyInfoInputs.cache
+C:\dev\exerciciosPOO\CadastroDeLivros\obj\Debug\net8.0\CadastroDeLivros.AssemblyInfo.cs
+C:\dev\exerciciosPOO\CadastroDeLivros\obj\Debug\net8.0\CadastroDeLivros.csproj.CoreCompileInputs.cache
+C:\dev\exerciciosPOO\CadastroDeLivros\obj\Debug\net8.0\CadastroDeLivros.sourcelink.json
+C:\dev\exerciciosPOO\CadastroDeLivros\bin\Debug\net8.0\CadastroDeLivros.exe
+C:\dev\exerciciosPOO\CadastroDeLivros\bin\Debug\net8.0\CadastroDeLivros.deps.json
+C:\dev\exerciciosPOO\CadastroDeLivros\bin\Debug\net8.0\CadastroDeLivros.runtimeconfig.json
+C:\dev\exerciciosPOO\CadastroDeLivros\bin\Debug\net8.0\CadastroDeLivros.dll
+C:\dev\exerciciosPOO\CadastroDeLivros\bin\Debug\net8.0\CadastroDeLivros.pdb
+C:\dev\exerciciosPOO\CadastroDeLivros\obj\Debug\net8.0\CadastroDeLivros.dll
+C:\dev\exerciciosPOO\CadastroDeLivros\obj\Debug\net8.0\refint\CadastroDeLivros.dll
+C:\dev\exerciciosPOO\CadastroDeLivros\obj\Debug\net8.0\CadastroDeLivros.pdb
+C:\dev\exerciciosPOO\CadastroDeLivros\obj\Debug\net8.0\CadastroDeLivros.genruntimeconfig.cache
+C:\dev\exerciciosPOO\CadastroDeLivros\obj\Debug\net8.0\ref\CadastroDeLivros.dll

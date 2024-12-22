@@ -1,0 +1,15 @@
+C:\dev\exerciciosPOO\CadastroProdutos\bin\Debug\net8.0\CadastroProdutos.exe
+C:\dev\exerciciosPOO\CadastroProdutos\bin\Debug\net8.0\CadastroProdutos.deps.json
+C:\dev\exerciciosPOO\CadastroProdutos\bin\Debug\net8.0\CadastroProdutos.runtimeconfig.json
+C:\dev\exerciciosPOO\CadastroProdutos\bin\Debug\net8.0\CadastroProdutos.dll
+C:\dev\exerciciosPOO\CadastroProdutos\bin\Debug\net8.0\CadastroProdutos.pdb
+C:\dev\exerciciosPOO\CadastroProdutos\obj\Debug\net8.0\CadastroProdutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\exerciciosPOO\CadastroProdutos\obj\Debug\net8.0\CadastroProdutos.AssemblyInfoInputs.cache
+C:\dev\exerciciosPOO\CadastroProdutos\obj\Debug\net8.0\CadastroProdutos.AssemblyInfo.cs
+C:\dev\exerciciosPOO\CadastroProdutos\obj\Debug\net8.0\CadastroProdutos.csproj.CoreCompileInputs.cache
+C:\dev\exerciciosPOO\CadastroProdutos\obj\Debug\net8.0\CadastroProdutos.sourcelink.json
+C:\dev\exerciciosPOO\CadastroProdutos\obj\Debug\net8.0\CadastroProdutos.dll
+C:\dev\exerciciosPOO\CadastroProdutos\obj\Debug\net8.0\refint\CadastroProdutos.dll
+C:\dev\exerciciosPOO\CadastroProdutos\obj\Debug\net8.0\CadastroProdutos.pdb
+C:\dev\exerciciosPOO\CadastroProdutos\obj\Debug\net8.0\CadastroProdutos.genruntimeconfig.cache
+C:\dev\exerciciosPOO\CadastroProdutos\obj\Debug\net8.0\ref\CadastroProdutos.dll
